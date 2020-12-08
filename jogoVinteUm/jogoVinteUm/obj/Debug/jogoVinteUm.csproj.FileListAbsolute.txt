@@ -1,0 +1,7 @@
+C:\Users\Giovan\source\repos\jogoVinteUm\jogoVinteUm\obj\Debug\jogoVinteUm.csprojAssemblyReference.cache
+C:\Users\Giovan\source\repos\jogoVinteUm\jogoVinteUm\obj\Debug\jogoVinteUm.csproj.CoreCompileInputs.cache
+C:\Users\Giovan\source\repos\jogoVinteUm\jogoVinteUm\bin\Debug\jogoVinteUm.exe.config
+C:\Users\Giovan\source\repos\jogoVinteUm\jogoVinteUm\bin\Debug\jogoVinteUm.exe
+C:\Users\Giovan\source\repos\jogoVinteUm\jogoVinteUm\bin\Debug\jogoVinteUm.pdb
+C:\Users\Giovan\source\repos\jogoVinteUm\jogoVinteUm\obj\Debug\jogoVinteUm.exe
+C:\Users\Giovan\source\repos\jogoVinteUm\jogoVinteUm\obj\Debug\jogoVinteUm.pdb
